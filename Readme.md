@@ -6,5 +6,5 @@ Aqui você encontra referências rápidas para instalar e organizar os itens mai
 
 ## Índice
 
-- [Startup do Windows](windows.md) - comandos e links para preparar um ambiente no Windows.
-- [Startup do Linux](linux.md) - comandos e links para preparar um ambiente no Linux.
+- [Startup do Windows](contents/windows.md) - comandos e links para preparar um ambiente no Windows.
+- [Startup do Linux](contents/linux.md) - comandos e links para preparar um ambiente no Linux.
