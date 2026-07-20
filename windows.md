@@ -52,8 +52,30 @@ winget install -e --id Microsoft.VisualStudioCode
 ```
 ou [Abrir Link](https://code.visualstudio.com/download){:target="_blank" rel="noopener noreferrer"}
 
+**Docker Desktop :** 
+```bash
+winget install -e --id Docker.DockerDesktop
+
+#Docker Compose
+winget install -e --id Docker.DockerCompose
+```
+ou [Abrir Link](https://docs.docker.com/desktop/setup/install/windows-install/){:target="_blank" rel="noopener noreferrer"}
+
+**Podman Desktop:** 
+```bash
+winget install -e --id RedHat.Podman-Desktop
+```
+ou [Abrir Link](https://podman.io/){:target="_blank" rel="noopener noreferrer"}
+
+
 ---
 ## Outros:
+
+**AnyDesk**: [abrir Link](https://anydesk.com/pt/downloads/windows){:target="_blank" rel="noopener noreferrer"}
+ou
+```bash
+winget install -e --id AnyDesk.AnyDesk
+```
 
 **Filelight**: 
 ```bash

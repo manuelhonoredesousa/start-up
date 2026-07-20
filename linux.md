@@ -57,8 +57,23 @@ ou
 flatpak install flathub com.visualstudio.code
 ```
 
+**Docker Desktop :** [Abrir Link](https://docs.docker.com/desktop/setup/install/linux/){:target="_blank" rel="noopener noreferrer"}
+
+**Podman Desktop:** 
+```bash
+flatpak install flathub io.podman_desktop.PodmanDesktop
+```
+ou [Abrir Link](https://podman.io/){:target="_blank" rel="noopener noreferrer"}
+
+
 ---
 ### Outros
+
+**AnyDesk**: [abrir Link](https://anydesk.com/pt/downloads/linux){:target="_blank" rel="noopener noreferrer"}
+ou
+```bash
+flatpak install flathub com.anydesk.Anydesk
+```
 
 **Filelight**: 
 ```bash
