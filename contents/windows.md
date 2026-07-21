@@ -8,33 +8,39 @@ winget install localsend
 ---
 ## Navegador
 
-**Edge:** 
+**Edge** 
 ```bash
 winget install -e --id Microsoft.Edge
 ```
-ou [Abrir Link](https://explore.microsoft.com/pt-br/edge/download?form=MA13FJ)
+ou [abrir link](https://explore.microsoft.com/pt-br/edge/download?form=MA13FJ)
 
-**Chrome:** 
+**Chrome** 
 ```bash
 winget install -e --id Google.Chrome
 ```
-ou [Abrir Link](https://www.google.com/chrome/)
+ou [abrir link](https://www.google.com/chrome/)
 
-**Firefox:** 
+**Firefox** 
 ```bash
 winget install -e --id Mozilla.Firefox
 ```
-ou [Abrir Link](https://www.firefox.com/pt-BR/)
+ou [abrir link](https://www.firefox.com/pt-BR/)
 
-**Optimizar Navegador (Rizonesoft):** [Abrir Link](https://rizonesoft.com/downloads/firemin/)
+**Optimizar Navegador (Rizonesoft)** 
+- [abrir link](https://rizonesoft.com/downloads/firemin/)
 
-**AB Download Manager:** [Abrir Link](https://abdownloadmanager.com/#download)
+**AB Download Manager** 
+- [abrir link](https://abdownloadmanager.com/#download)
 
 ---
 ## Players
 
-**VLC**: [Abrir Link](https://images.videolan.org/vlc/)
-**Pot Player:** [Baixar_x64](https://t1.kakaocdn.net/potplayer/PotPlayer/Version/Latest/PotPlayerSetup64.exe) ou [Abrir Link](https://potplayer.tv/)
+**VLC**
+- [abrir link](https://images.videolan.org/vlc/)
+
+**Pot Player** 
+- [baixar_x64](https://t1.kakaocdn.net/potplayer/PotPlayer/Version/Latest/PotPlayerSetup64.exe)
+- [abrir link](https://potplayer.tv/)
 
 ---
 ## Developer:
@@ -46,32 +52,51 @@ winget install Warp.Warp
 ```bash
 winget install -e --id SublimeHQ.SublimeText.4
 ```
-**Microsoft Visual Studio Code:** 
+**Microsoft Visual Studio Code** 
 ```bash
 winget install -e --id Microsoft.VisualStudioCode
 ```
-ou [Abrir Link](https://code.visualstudio.com/download)
+ou [abrir link](https://code.visualstudio.com/download)
 
-**Docker Desktop :** 
+**Docker Desktop ** 
 ```bash
 winget install -e --id Docker.DockerDesktop
 
 #Docker Compose
 winget install -e --id Docker.DockerCompose
 ```
-ou [Abrir Link](https://docs.docker.com/desktop/setup/install/windows-install/)
+ou [abrir link](https://docs.docker.com/desktop/setup/install/windows-install/)
 
-**Podman Desktop:** 
+**Podman Desktop** 
 ```bash
 winget install -e --id RedHat.Podman-Desktop
 ```
-ou [Abrir Link](https://podman.io/)
+ou [abrir link](https://podman.io/)
+
+
+**Portugol Studio** 
+
+- [abrir link](https://univali-lite.github.io/Portugol-Studio/) 
+- [usar online](https://portugol.dev/)
+
+**DevC++**: 
+```bash
+winget install -e --id Orwell.Dev-C++
+```
+ou [abrir link](https://www.dev-cpp.com/)
+
+**Code Block**: 
+```bash
+winget install -e --id CodeBlocks.CodeBlocks.MinGW
+```
+ou [abrir link](https://www.codeblocks.org/downloads/binaries/#imagesoswindows48pnglogo-microsoft-windows)
+
 
 
 ---
 ## Outros:
 
-**AnyDesk**: [abrir Link](https://anydesk.com/pt/downloads/windows)
+**AnyDesk**: [abrir link](https://anydesk.com/pt/downloads/windows)
 ou
 ```bash
 winget install -e --id AnyDesk.AnyDesk
@@ -81,25 +106,34 @@ winget install -e --id AnyDesk.AnyDesk
 ```bash
 winget install -e --id KDE.Filelight
 ```
-ou [abrir Link](https://apps.kde.org/filelight/)
+ou [abrir link](https://apps.kde.org/filelight/)
 
 **Localsend**
 ```bash
 winget install localsend
 ```
+ou [abrir link](https://localsend.org/pt-BR/download?os=windows)
 
-**Ente Auth:** [Abrir Link](https://ente.com/download)
+**Ente Auth** 
+```bash
+winget install -e --id ente-io.auth-desktop
+```
+ou [abrir link](https://ente.com/download)
 
-**Wo Mic**: [Abrir Link](https://wolicheng.com/womic/download.html)
+**Wo Mic**
+```bash
+winget install -e --id Wolicheng.WOMic
+```
+ou [abrir link](https://wolicheng.com/womic/download.html)
 
 ---
 
 ## Editor de Média
 
-**Caesium Image Compressor**: [Abrir Link](https://saerasoft.com/caesium/#downloads)
+**Caesium Image Compressor**: [abrir link](https://saerasoft.com/caesium/#downloads)
 
-**HandBrake:** 
+**HandBrake** 
 ```bash
 winget install -e --id HandBrake.HandBrake
 ```
-ou [Abrir Link](https://handbrake.fr/downloads.php)
+ou [abrir link](https://handbrake.fr/downloads.php)

@@ -10,30 +10,31 @@ winget install Warp.Warp
 ---
 ## Navegador
 
-**Edge:** [abrir Link](https://explore.microsoft.com/pt-br/edge/download?form=MA13FJ)
+**Edge** [abrir link](https://explore.microsoft.com/pt-br/edge/download?form=MA13FJ)
 ou
 ```bash
 flatpak install flathub com.microsoft.Edge
 ```
 
-**Chrome:** [abrir Link](https://www.google.com/chrome/)
+**Chrome** [abrir link](https://www.google.com/chrome/)
 ou
 ```bash
 flatpak install flathub com.google.Chrome
 ```
 
-**Firefox:** [abrir Link](https://www.firefox.com/pt-BR/)
+**Firefox** [abrir link](https://www.firefox.com/pt-BR/)
 ou
 ```bash
 flatpak install flathub org.mozilla.firefox
 ```
 
-**AB Download Manager:** [abrir Link](https://abdownloadmanager.com/#download)
+**AB Download Manager** 
+- [abrir link](https://abdownloadmanager.com/#download)
 
 ---
 ## Players
 
-**VLC:** 
+**VLC** 
 ```bash
 sudo apt install vlc
 ```
@@ -44,56 +45,71 @@ flatpak install flathub org.videolan.VLC
 
 ---
 ## Developer:
-**Warp**: [Baixar_x64](https://app.warp.dev/get_warp?package=deb) ou [abrir Link](https://www.warp.dev/download)
+**Warp** 
+- [baixar_x64](https://app.warp.dev/get_warp?package=deb)
+- [abrir link](https://www.warp.dev/download)
 
 **Sublime Text**
 ```bash
 flatpak install flathub com.sublimehq.SublimeText
 ```
 
-**Microsoft Visual Studio Code:** [abrir Link](https://code.visualstudio.com/download)
+**Microsoft Visual Studio Code** [abrir link](https://code.visualstudio.com/download)
 ou
+
 ```bash
 flatpak install flathub com.visualstudio.code
 ```
 
-**Docker Desktop :** [Abrir Link](https://docs.docker.com/desktop/setup/install/linux/)
+**Docker Desktop** 
+- [abrir link](https://docs.docker.com/desktop/setup/install/linux/)
 
-**Podman Desktop:** 
+**Podman Desktop** 
 ```bash
 flatpak install flathub io.podman_desktop.PodmanDesktop
 ```
-ou [Abrir Link](https://podman.io/)
+ou [abrir link](https://podman.io/)
 
+**Code Block** 
+```bash
+flatpak install flathub org.codeblocks.codeblocks
+```
+ou [abrir link](https://www.codeblocks.org/downloads/binaries/#imagesoslinux48pnglogo-linux-32-and-64-bit)
 
 ---
 ### Outros
 
-**AnyDesk**: [abrir Link](https://anydesk.com/pt/downloads/linux)
+**AnyDesk** [abrir link](https://anydesk.com/pt/downloads/linux)
 ou
 ```bash
 flatpak install flathub com.anydesk.Anydesk
 ```
 
-**Filelight**: 
+**Filelight** 
 ```bash
 flatpak install flathub org.kde.filelight
 ```
-ou [abrir Link](https://apps.kde.org/filelight/)
+ou [abrir link](https://apps.kde.org/filelight/)
 
 **Localsend**
 ```bash
 flatpak install flathub org.localsend.localsend_app
 ```
-**Ente Auth:** [abrir Link](https://ente.com/download)
+ou [abrir link](https://localsend.org/pt-BR/download?os=linux)
+
+**Ente Auth** 
+```bash
+flatpak install flathub io.ente.auth
+```
+ou [abrir link](https://ente.com/download)
 
 
 ---
 
 ## Editor de Média
 
-**HandBrake:** 
+**HandBrake** 
 ```bash
 flatpak install flathub fr.handbrake.ghb
 ```
-ou [abrir Link](https://handbrake.fr/downloads.php)
+ou [abrir link](https://handbrake.fr/downloads.php)
