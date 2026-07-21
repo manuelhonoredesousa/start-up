@@ -70,6 +70,28 @@ flatpak install flathub io.podman_desktop.PodmanDesktop
 ```
 ou [abrir link](https://podman.io/)
 
+**HTTP Toolkit** 
+- [abrir link](https://httptoolkit.com/)
+
+**Postman** 
+```bash
+flatpak install flathub com.getpostman.Postman
+```
+ou [abrir link](https://www.postman.com/downloads/)
+
+**Beekeeper Studio** 
+```bash
+flatpak install flathub io.beekeeperstudio.Studio
+```
+ou [abrir link](https://www.beekeeperstudio.io/get)
+
+**Github Desktop** 
+```bash
+flatpak install flathub io.github.shiftey.Desktop
+```
+- [abrir link](https://github.com/shiftkey/desktop/releases)
+- [baixar .deb](https://www.mediafire.com/file/1g7aa0z9uwb3qsr/GitHubDesktop-linux-amd64-3.4.13-linux1.deb/file)
+
 **Code Block** 
 ```bash
 flatpak install flathub org.codeblocks.codeblocks
@@ -103,6 +125,26 @@ flatpak install flathub io.ente.auth
 ```
 ou [abrir link](https://ente.com/download)
 
+**Kudu** 
+- [abrir link](https://usekudu.com/download)
+
+**Balena Etcher** 
+- [abrir link](https://etcher.balena.io/#download-etcher)
+
+**Popsicle** 
+```bash
+flatpak install flathub com.system76.Popsicle
+```
+
+
+---
+## Office 
+
+**OnlyOffice** 
+```bash
+flatpak install flathub org.onlyoffice.desktopeditors
+```
+ou [abrir link](https://www.onlyoffice.com/download-desktop)
 
 ---
 

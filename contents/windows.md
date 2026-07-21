@@ -73,6 +73,29 @@ winget install -e --id RedHat.Podman-Desktop
 ```
 ou [abrir link](https://podman.io/)
 
+**HTTP Toolkit** 
+```bash
+winget install -e --id HTTPToolKit.HTTPToolKit
+```
+ou [abrir link](https://httptoolkit.com/)
+
+**Postman** 
+```bash
+winget install -e --id Postman.Postman
+```
+ou [abrir link](https://www.postman.com/downloads/)
+
+**Beekeeper Studio** 
+```bash
+winget install -e --id beekeeper-studio.beekeeper-studio
+```
+ou [abrir link](https://www.beekeeperstudio.io/get)
+
+**Github Desktop** 
+```bash
+winget install -e --id GitHub.GitHubDesktop
+```
+ou [abrir link](https://desktop.github.com/download/)
 
 **Portugol Studio** 
 
@@ -126,11 +149,48 @@ winget install -e --id Wolicheng.WOMic
 ```
 ou [abrir link](https://wolicheng.com/womic/download.html)
 
+**Kudu** 
+- [abrir link](https://usekudu.com/download)
+
+**Wise Auto Shutdown** 
+- [abrir link](https://www.wisecleaner.com/wise-auto-shutdown.html)
+
+**PowerToys** 
+```bash
+winget install --id Microsoft.PowerToys --source winget
+```
+ou [abrir link](https://github.com/microsoft/PowerToys/releases)
+
+**Balena Etcher** 
+```bash
+winget install -e --id Balena.Etcher
+```
+ou [abrir link](https://etcher.balena.io/#download-etcher)
+
+**Rufus** 
+```bash
+winget install -e --id Rufus.Rufus
+```
+ou [abrir link](https://rufus.ie/pt/)
+
+---
+## Office 
+
+**Microsoft Office** 
+- [abrir link](https://www.mediafire.com/folder/h9nhex5xb48x9/Microsoft+Office)
+
+**OnlyOffice** 
+```bash
+winget install -e --id ONLYOFFICE.DesktopEditors
+```
+ou [abrir link](https://www.onlyoffice.com/download-desktop)
+
 ---
 
 ## Editor de Média
 
-**Caesium Image Compressor**: [abrir link](https://saerasoft.com/caesium/#downloads)
+**Caesium Image Compressor**
+- [abrir link](https://saerasoft.com/caesium/#downloads)
 
 **HandBrake** 
 ```bash

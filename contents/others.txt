@@ -7,48 +7,82 @@ grok
 
 
 winrar
+winget install -e --id RARLab.WinRAR
+https://www.win-rar.com/download.html?&L=0
+
+
+PeaZip
+flatpak install flathub io.github.peazip.PeaZip
+
+Joystick
+https://1drv.ms/f/c/61b6cf8b47bdc779/IgAfM-hq2MyHQYMJzTLXYqp6AYrFuLPcHEAUBcj6yeqbeYg?e=Vepcgo
+
+
 3utools
-Adobe Photoshop CS6
-Beekeeper Studio
-EaseUS Data Recovery Wizard
+https://www.3u.com/
+
+Adobe Photoshop CS6 - https://www.mediafire.com/file/gosvsvdni9hthcf/Photoshop_portable_CS6_Installer.rar/file
+
+EaseUS Data Recovery Wizard - https://1drv.ms/u/c/61b6cf8b47bdc779/IQA0nssQUNDuSq5ZOfCNY7NbAYzgMVbOnp_0C6hj2OmZy6U?e=APqQVA
 
 
 
-git
-Github Desktop
+Git
+    https://git-scm.com/
 
-Insominia/Postman
 
-HTTP Toolkit
 
-Office
-OnlyOffice
+MVC_2015-2022
+https://www.mediafire.com/file/dq62dko5dft8hbc/2015-2022_-_VC_redist.x64.rar/file
 
-MVC_
+AllinOne 
+https://1drv.ms/u/c/61b6cf8b47bdc779/IQC8VnUBbFVgTqZIN-JmKzP4AQ9Mvy40K4Dy2w-jvUzVDBc?e=IoJC6O
+
+https://www.mediafire.com/file/slpax3m418tov4t/All_in_One_Runtimes_-_v2.5.0.rar/file
+
+power iso
+https://www.mediafire.com/file/tnzqqrfhkt2pdbj/Power_ISO_v6_64bits.rar/file
+
+
+dControl - https://www.mediafire.com/folder/5aio10qvah3ms/(Defender)+-+dControl+-+sordum.org
 
 Nodejs
-Python
+https://nodejs.org/en/download/current
 
-VirtualBox
+
+Python - https://www.python.org/downloads/
+
+
+VirtualBox - https://www.virtualbox.org/wiki/Downloads
+winget install -e --id Oracle.VirtualBox
+
+https://www.virtualbox.org/wiki/Linux_Downloads
+
 
 Photopea
 
-Powertoy
+VS 2012 - https://www.mediafire.com/file/5x5rszjlfx5g3ka/Microsoft_Visual_Studio_2012_ULT_VL_ENU.rar/file
 
-wise auto shutdown
+VS recent
 
-balena etcher
-rufus
 
 debever
+flatpak install flathub io.dbeaver.DBeaverCommunity
+
 
 android studio
+https://developer.android.com/studio
+winget install -e --id Google.AndroidStudio
+
+link
+flatpak install flathub com.google.AndroidStudio
+
 
 dev toolbox
  Gimp / Krita
 
 
-kudo
+
 
 
 
