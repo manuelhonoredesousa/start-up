@@ -125,6 +125,11 @@ flatpak install flathub org.codeblocks.codeblocks
 ```
 ou [abrir link](https://www.codeblocks.org/downloads/binaries/#imagesoslinux48pnglogo-linux-32-and-64-bit)
 
+**Dev Toolbox** 
+```bash
+flatpak install flathub me.iepure.devtoolbox 
+```
+
 ---
 ### Outros
 
@@ -155,13 +160,6 @@ ou [abrir link](https://ente.com/download)
 **Kudu** 
 - [abrir link](https://usekudu.com/download)
 
-**Balena Etcher** 
-- [abrir link](https://etcher.balena.io/#download-etcher)
-
-**Popsicle** 
-```bash
-flatpak install flathub com.system76.Popsicle
-```
 
 **3utools** 
 
@@ -185,3 +183,21 @@ ou [abrir link](https://www.onlyoffice.com/download-desktop)
 flatpak install flathub fr.handbrake.ghb
 ```
 ou [abrir link](https://handbrake.fr/downloads.php)
+
+**Gimp** 
+```bash
+flatpak install flathub org.gimp.GIMP
+```
+- [abrir link](https://www.gimp.org/downloads/)
+
+---
+
+## Tech Tool
+
+**Balena Etcher** 
+- [abrir link](https://etcher.balena.io/#download-etcher)
+
+**Popsicle** 
+```bash
+flatpak install flathub com.system76.Popsicle
+```

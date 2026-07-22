@@ -7,9 +7,19 @@ winget install -e --id OpenJS.NodeJS
 
 -----
 
-**3utools** 
+**Gimp** 
+```bash
+flatpak install flathub org.gimp.GIMP
+```
+- [abrir link](https://www.gimp.org/downloads/)
+------
+**Dev Toolbox** 
+```bash
+flatpak install flathub me.iepure.devtoolbox
+```
 
-- [abrir link](https://www.3u.com/)
+**EaseUS Data Recovery Wizard** 
+- [abrir link](https://1drv.ms/u/c/61b6cf8b47bdc779/IQA0nssQUNDuSq5ZOfCNY7NbAYzgMVbOnp_0C6hj2OmZy6U?e=APqQVA)
 
 
 opencode
@@ -18,22 +28,10 @@ grok
 
 
 
-
-
-
-
-Adobe Photoshop CS6 - https://www.mediafire.com/file/gosvsvdni9hthcf/Photoshop_portable_CS6_Installer.rar/file
-
-EaseUS Data Recovery Wizard - https://1drv.ms/u/c/61b6cf8b47bdc779/IQA0nssQUNDuSq5ZOfCNY7NbAYzgMVbOnp_0C6hj2OmZy6U?e=APqQVA
-
-
-
-
-
-MVC_2015-2022
+ MVC_2015-2022
 https://www.mediafire.com/file/dq62dko5dft8hbc/2015-2022_-_VC_redist.x64.rar/file
 
-AllinOne 
+All in One 
 https://1drv.ms/u/c/61b6cf8b47bdc779/IQC8VnUBbFVgTqZIN-JmKzP4AQ9Mvy40K4Dy2w-jvUzVDBc?e=IoJC6O
 
 https://www.mediafire.com/file/slpax3m418tov4t/All_in_One_Runtimes_-_v2.5.0.rar/file
@@ -76,8 +74,7 @@ link
 flatpak install flathub com.google.AndroidStudio
 
 
-dev toolbox
- Gimp / Krita
+
 
 
 

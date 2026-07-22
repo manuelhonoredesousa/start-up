@@ -189,17 +189,6 @@ winget install --id Microsoft.PowerToys --source winget
 ```
 ou [abrir link](https://github.com/microsoft/PowerToys/releases)
 
-**Balena Etcher** 
-```bash
-winget install -e --id Balena.Etcher
-```
-ou [abrir link](https://etcher.balena.io/#download-etcher)
-
-**Rufus** 
-```bash
-winget install -e --id Rufus.Rufus
-```
-ou [abrir link](https://rufus.ie/pt/)
 
 **JoyStick** 
 
@@ -233,3 +222,28 @@ ou [abrir link](https://www.onlyoffice.com/download-desktop)
 winget install -e --id HandBrake.HandBrake
 ```
 ou [abrir link](https://handbrake.fr/downloads.php)
+
+**Adobe Photoshop CS6** 
+
+- [abrir link](https://www.mediafire.com/file/gosvsvdni9hthcf/Photoshop_portable_CS6_Installer.rar/file)
+
+**Gimp** 
+- [abrir link](https://www.gimp.org/downloads/)
+
+---
+## Tech Tool
+
+**EaseUS Data Recovery Wizard** 
+- [abrir link](https://1drv.ms/u/c/61b6cf8b47bdc779/IQA0nssQUNDuSq5ZOfCNY7NbAYzgMVbOnp_0C6hj2OmZy6U?e=APqQVA)
+
+**Balena Etcher** 
+```bash
+winget install -e --id Balena.Etcher
+```
+ou [abrir link](https://etcher.balena.io/#download-etcher)
+
+**Rufus** 
+```bash
+winget install -e --id Rufus.Rufus
+```
+ou [abrir link](https://rufus.ie/pt/)
