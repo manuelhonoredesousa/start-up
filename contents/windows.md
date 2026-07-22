@@ -1,6 +1,18 @@
 # Windows Start
 
-## Básico:
+## Úteis:
+
+**WinRar** 
+```bash
+winget install -e --id RARLab.WinRAR
+```
+ou [abrir link](https://www.win-rar.com/download.html?&L=0)
+
+**PeaZip** 
+```bash
+winget install -e --id Giorgiotani.Peazip
+```
+ou [abrir link](https://peazip.github.io/peazip-64bit.html)
 
 <!-- ```bash
 winget install localsend
@@ -44,6 +56,22 @@ ou [abrir link](https://www.firefox.com/pt-BR/)
 
 ---
 ## Developer:
+
+**Git** 
+```bash
+winget install -e --id Microsoft.Git
+```
+- [abrir link](https://git-scm.com/install/windows)
+- [ver github](https://github.com/microsoft/git/releases)
+
+**Node.js** 
+
+- [abrir link](https://nodejs.org/en/download)
+
+```bash
+npm i pnpm -g
+```
+
 **Warp**
 ```bash
 winget install Warp.Warp
@@ -172,6 +200,14 @@ ou [abrir link](https://etcher.balena.io/#download-etcher)
 winget install -e --id Rufus.Rufus
 ```
 ou [abrir link](https://rufus.ie/pt/)
+
+**JoyStick** 
+
+- [abrir link](https://1drv.ms/f/c/61b6cf8b47bdc779/IgAfM-hq2MyHQYMJzTLXYqp6AYrFuLPcHEAUBcj6yeqbeYg?e=Vepcgo)
+
+**3utools** 
+
+- [abrir link](https://www.3u.com/)
 
 ---
 ## Office 

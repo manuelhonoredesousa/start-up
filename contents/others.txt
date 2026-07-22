@@ -1,3 +1,15 @@
+**Git** 
+```bash
+winget install -e --id OpenJS.NodeJS
+```
+- [abrir link](https://git-scm.com/install/linux)
+- [ver github](https://github.com/microsoft/git/releases)
+
+-----
+
+**3utools** 
+
+- [abrir link](https://www.3u.com/)
 
 
 opencode
@@ -6,29 +18,15 @@ grok
 
 
 
-winrar
-winget install -e --id RARLab.WinRAR
-https://www.win-rar.com/download.html?&L=0
 
 
-PeaZip
-flatpak install flathub io.github.peazip.PeaZip
 
-Joystick
-https://1drv.ms/f/c/61b6cf8b47bdc779/IgAfM-hq2MyHQYMJzTLXYqp6AYrFuLPcHEAUBcj6yeqbeYg?e=Vepcgo
-
-
-3utools
-https://www.3u.com/
 
 Adobe Photoshop CS6 - https://www.mediafire.com/file/gosvsvdni9hthcf/Photoshop_portable_CS6_Installer.rar/file
 
 EaseUS Data Recovery Wizard - https://1drv.ms/u/c/61b6cf8b47bdc779/IQA0nssQUNDuSq5ZOfCNY7NbAYzgMVbOnp_0C6hj2OmZy6U?e=APqQVA
 
 
-
-Git
-    https://git-scm.com/
 
 
 

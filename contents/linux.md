@@ -1,6 +1,12 @@
 # Linux Start
 
-## Básico:
+## Úteis:
+
+**PeaZip** 
+```bash
+flatpak install flathub io.github.peazip.PeaZip
+```
+ou [abrir link](https://peazip.github.io/peazip-linux.html)
 
 <!-- ## Developer:
 **Localsend**
@@ -45,6 +51,27 @@ flatpak install flathub org.videolan.VLC
 
 ---
 ## Developer:
+
+**Git** 
+```bash
+Ubuntu / Debian / Linux Mint: 
+sudo apt install git
+Fedora / RHEL / CentOS: 
+sudo dnf install git
+Arch Linux: 
+sudo pacman -S git
+```
+- [abrir link](https://git-scm.com/install/linux)
+- [ver github](https://github.com/microsoft/git/releases)
+
+**Node.js** 
+
+- [abrir link](https://nodejs.org/en/download)
+
+```bash
+sudo npm i pnpm -g
+```
+
 **Warp** 
 - [baixar_x64](https://app.warp.dev/get_warp?package=deb)
 - [abrir link](https://www.warp.dev/download)
@@ -136,6 +163,9 @@ ou [abrir link](https://ente.com/download)
 flatpak install flathub com.system76.Popsicle
 ```
 
+**3utools** 
+
+- [abrir link](https://www.3u.com/)
 
 ---
 ## Office 
