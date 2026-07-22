@@ -65,12 +65,22 @@ sudo pacman -S git
 - [ver github](https://github.com/microsoft/git/releases)
 
 **Node.js** 
-
 - [abrir link](https://nodejs.org/en/download)
 
 ```bash
 sudo npm i pnpm -g
 ```
+
+**Python** 
+```bash
+#Debian ou Ubuntu:
+sudo apt update
+sudo apt install python3 python3-pip
+
+#Fedora
+sudo dnf install python3
+```
+- [abrir link](https://www.python.org/downloads/source/)
 
 **Warp** 
 - [baixar_x64](https://app.warp.dev/get_warp?package=deb)
@@ -112,12 +122,24 @@ flatpak install flathub io.beekeeperstudio.Studio
 ```
 ou [abrir link](https://www.beekeeperstudio.io/get)
 
+**DBeaver Community** 
+```bash
+flatpak install flathub io.dbeaver.DBeaverCommunity
+```
+- [abrir link](https://dbeaver.io/download/)
+
 **Github Desktop** 
 ```bash
 flatpak install flathub io.github.shiftey.Desktop
 ```
 - [abrir link](https://github.com/shiftkey/desktop/releases)
 - [baixar .deb](https://www.mediafire.com/file/1g7aa0z9uwb3qsr/GitHubDesktop-linux-amd64-3.4.13-linux1.deb/file)
+
+**Android Studio** 
+```bash
+flatpak install flathub com.google.AndroidStudio
+```
+- [abrir link](https://developer.android.com/studio)
 
 **Code Block** 
 ```bash
@@ -157,13 +179,17 @@ flatpak install flathub io.ente.auth
 ```
 ou [abrir link](https://ente.com/download)
 
-**Kudu** 
-- [abrir link](https://usekudu.com/download)
-
-
 **3utools** 
-
 - [abrir link](https://www.3u.com/)
+
+**Virtual Box** 
+- [abrir link](https://www.virtualbox.org/wiki/Downloads)
+
+**Power ISO** 
+```bash
+flatpak install flathub com.poweriso.PowerISO
+```
+ou [abrir link](https://www.poweriso.com/download-poweriso-for-linux.htm)
 
 ---
 ## Office 
@@ -201,3 +227,6 @@ flatpak install flathub org.gimp.GIMP
 ```bash
 flatpak install flathub com.system76.Popsicle
 ```
+
+**Kudu** 
+- [abrir link](https://usekudu.com/download)

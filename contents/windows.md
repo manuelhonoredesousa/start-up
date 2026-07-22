@@ -14,6 +14,13 @@ winget install -e --id Giorgiotani.Peazip
 ```
 ou [abrir link](https://peazip.github.io/peazip-64bit.html)
 
+**All in One Runtimes - v2.5.0** 
+- [abrir link (OneDrive)](https://1drv.ms/u/c/61b6cf8b47bdc779/IQC8VnUBbFVgTqZIN-JmKzP4AQ9Mvy40K4Dy2w-jvUzVDBc?e=IoJC6O)
+- [abrir link (Mediafire)](https://www.mediafire.com/file/slpax3m418tov4t/All_in_One_Runtimes_-_v2.5.0.rar/file)
+
+**Microsoft Visual C++ 2015-2022** 
+- [abrir link (Mediafire)](https://www.mediafire.com/file/dq62dko5dft8hbc/2015-2022_-_VC_redist.x64.rar/file)
+
 <!-- ```bash
 winget install localsend
 ``` -->
@@ -65,12 +72,17 @@ winget install -e --id Microsoft.Git
 - [ver github](https://github.com/microsoft/git/releases)
 
 **Node.js** 
-
 - [abrir link](https://nodejs.org/en/download)
 
 ```bash
 npm i pnpm -g
 ```
+
+**Python** 
+```bash
+winget install -e --id Python.Launcher
+```
+ou [abrir link](https://www.python.org/downloads/windows/)
 
 **Warp**
 ```bash
@@ -86,7 +98,7 @@ winget install -e --id Microsoft.VisualStudioCode
 ```
 ou [abrir link](https://code.visualstudio.com/download)
 
-**Docker Desktop ** 
+**Docker Desktop** 
 ```bash
 winget install -e --id Docker.DockerDesktop
 
@@ -119,11 +131,23 @@ winget install -e --id beekeeper-studio.beekeeper-studio
 ```
 ou [abrir link](https://www.beekeeperstudio.io/get)
 
+**DBeaver Community** 
+```bash
+winget install -e --id DBeaver.DBeaver.Community
+```
+- [abrir link](https://dbeaver.io/download/)
+
 **Github Desktop** 
 ```bash
 winget install -e --id GitHub.GitHubDesktop
 ```
 ou [abrir link](https://desktop.github.com/download/)
+
+**Android Studio** 
+```bash
+winget install -e --id Google.AndroidStudio
+```
+- [abrir link](https://developer.android.com/studio)
 
 **Portugol Studio** 
 
@@ -142,7 +166,9 @@ winget install -e --id CodeBlocks.CodeBlocks.MinGW
 ```
 ou [abrir link](https://www.codeblocks.org/downloads/binaries/#imagesoswindows48pnglogo-microsoft-windows)
 
-
+**Visual Studio 2012 ULT VL ENU 2012**: 
+- [abrir link (Mediafire)](https://www.mediafire.com/file/5x5rszjlfx5g3ka/Microsoft_Visual_Studio_2012_ULT_VL_ENU.rar/file)
+- [ou mais recente](https://visualstudio.microsoft.com/)
 
 ---
 ## Outros:
@@ -177,9 +203,6 @@ winget install -e --id Wolicheng.WOMic
 ```
 ou [abrir link](https://wolicheng.com/womic/download.html)
 
-**Kudu** 
-- [abrir link](https://usekudu.com/download)
-
 **Wise Auto Shutdown** 
 - [abrir link](https://www.wisecleaner.com/wise-auto-shutdown.html)
 
@@ -189,14 +212,21 @@ winget install --id Microsoft.PowerToys --source winget
 ```
 ou [abrir link](https://github.com/microsoft/PowerToys/releases)
 
-
 **JoyStick** 
 
 - [abrir link](https://1drv.ms/f/c/61b6cf8b47bdc779/IgAfM-hq2MyHQYMJzTLXYqp6AYrFuLPcHEAUBcj6yeqbeYg?e=Vepcgo)
 
 **3utools** 
-
 - [abrir link](https://www.3u.com/)
+
+**Virtual Box** 
+```bash
+winget install -e --id Oracle.VirtualBox
+```
+- [abrir link](https://www.virtualbox.org/wiki/Downloads)
+
+**Power ISO v6 64bits** 
+- [abrir link (Mediafire)](https://www.mediafire.com/file/tnzqqrfhkt2pdbj/Power_ISO_v6_64bits.rar/file)
 
 ---
 ## Office 
@@ -234,7 +264,8 @@ ou [abrir link](https://handbrake.fr/downloads.php)
 ## Tech Tool
 
 **EaseUS Data Recovery Wizard** 
-- [abrir link](https://1drv.ms/u/c/61b6cf8b47bdc779/IQA0nssQUNDuSq5ZOfCNY7NbAYzgMVbOnp_0C6hj2OmZy6U?e=APqQVA)
+- [abrir link (OneDrive)](https://1drv.ms/u/c/61b6cf8b47bdc779/IQA0nssQUNDuSq5ZOfCNY7NbAYzgMVbOnp_0C6hj2OmZy6U?e=APqQVA)
+- [abrir link (Mediafire)](https://www.mediafire.com/file/mhro6h5wjbw9bbc/EaseUS_Data_Recovery_Wizard.rar/file)
 
 **Balena Etcher** 
 ```bash
@@ -247,3 +278,12 @@ ou [abrir link](https://etcher.balena.io/#download-etcher)
 winget install -e --id Rufus.Rufus
 ```
 ou [abrir link](https://rufus.ie/pt/)
+
+**Kudu** 
+- [abrir link](https://usekudu.com/download)
+
+**dControl (Defender Disable/Enable)** 
+- [abrir link (OneDrive)](https://1drv.ms/u/c/61b6cf8b47bdc779/IQAkxWwy9-oGQIYeZOaZ4lS5ASWDKxW0t8m6pQXxNcwZxeQ?e=yZ67yV)
+- [abrir link (Mediafire)](https://www.mediafire.com/folder/5aio10qvah3ms/(Defender)+-+dControl+-+sordum.org)
+
+ 
