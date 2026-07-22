@@ -2,6 +2,16 @@
 
 ## Úteis:
 
+```bash
+#Distibuições derivados (Debian, Ubuntu)
+sudo apt update && sudo apt upgrade -y
+sudo apt install build-essential curl wget git unzip -y
+```
+
+
+**Instalar Flatpak** 
+- [abrir link](https://flathub.org/en/setup)
+
 **PeaZip** 
 ```bash
 flatpak install flathub io.github.peazip.PeaZip
