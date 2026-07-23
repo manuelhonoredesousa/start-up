@@ -2,14 +2,22 @@
 
 ## Úteis:
 
+**Winget**
+A ferramenta WinGet só funciona no Windows 10 versão 1809 (build 17763) ou posterior. Ela só fica disponível depois do primeiro logon de um usuário no Windows, quando a Microsoft Store registra o Gerenciador de Pacotes do Windows em segundo plano. Se você acabou de entrar pela primeira vez e o WinGet ainda não apareceu, abra o PowerShell e execute:
+
+```powershell
+Add-AppxPackage -RegisterByFamilyName -MainPackage Microsoft.DesktopAppInstaller_8wekyb3d8bbwe
+```
+ou [abrir link](https://learn.microsoft.com/pt-br/windows/package-manager/winget/)
+
 **WinRar** 
-```bash
+```powershell
 winget install -e --id RARLab.WinRAR
 ```
 ou [abrir link](https://www.win-rar.com/download.html?&L=0)
 
 **PeaZip** 
-```bash
+```powershell
 winget install -e --id Giorgiotani.Peazip
 ```
 ou [abrir link](https://peazip.github.io/peazip-64bit.html)
@@ -21,26 +29,26 @@ ou [abrir link](https://peazip.github.io/peazip-64bit.html)
 **Microsoft Visual C++ 2015-2022** 
 - [abrir link (Mediafire)](https://www.mediafire.com/file/dq62dko5dft8hbc/2015-2022_-_VC_redist.x64.rar/file)
 
-<!-- ```bash
+<!-- ```powershell
 winget install localsend
 ``` -->
 ---
 ## Navegador
 
 **Edge** 
-```bash
+```powershell
 winget install -e --id Microsoft.Edge
 ```
 ou [abrir link](https://explore.microsoft.com/pt-br/edge/download?form=MA13FJ)
 
 **Chrome** 
-```bash
+```powershell
 winget install -e --id Google.Chrome
 ```
 ou [abrir link](https://www.google.com/chrome/)
 
 **Firefox** 
-```bash
+```powershell
 winget install -e --id Mozilla.Firefox
 ```
 ou [abrir link](https://www.firefox.com/pt-BR/)
@@ -65,7 +73,7 @@ ou [abrir link](https://www.firefox.com/pt-BR/)
 ## Developer:
 
 **Git** 
-```bash
+```powershell
 winget install -e --id Microsoft.Git
 ```
 - [abrir link](https://git-scm.com/install/windows)
@@ -74,32 +82,32 @@ winget install -e --id Microsoft.Git
 **Node.js** 
 - [abrir link](https://nodejs.org/en/download)
 
-```bash
+```powershell
 npm i pnpm -g
 ```
 
 **Python** 
-```bash
+```powershell
 winget install -e --id Python.Launcher
 ```
 ou [abrir link](https://www.python.org/downloads/windows/)
 
 **Warp**
-```bash
+```powershell
 winget install Warp.Warp
 ```
 **Sublime Text**
-```bash
+```powershell
 winget install -e --id SublimeHQ.SublimeText.4
 ```
 **Microsoft Visual Studio Code** 
-```bash
+```powershell
 winget install -e --id Microsoft.VisualStudioCode
 ```
 ou [abrir link](https://code.visualstudio.com/download)
 
 **Docker Desktop** 
-```bash
+```powershell
 winget install -e --id Docker.DockerDesktop
 
 #Docker Compose
@@ -108,43 +116,43 @@ winget install -e --id Docker.DockerCompose
 ou [abrir link](https://docs.docker.com/desktop/setup/install/windows-install/)
 
 **Podman Desktop** 
-```bash
+```powershell
 winget install -e --id RedHat.Podman-Desktop
 ```
 ou [abrir link](https://podman.io/)
 
 **HTTP Toolkit** 
-```bash
+```powershell
 winget install -e --id HTTPToolKit.HTTPToolKit
 ```
 ou [abrir link](https://httptoolkit.com/)
 
 **Postman** 
-```bash
+```powershell
 winget install -e --id Postman.Postman
 ```
 ou [abrir link](https://www.postman.com/downloads/)
 
 **Beekeeper Studio** 
-```bash
+```powershell
 winget install -e --id beekeeper-studio.beekeeper-studio
 ```
 ou [abrir link](https://www.beekeeperstudio.io/get)
 
 **DBeaver Community** 
-```bash
+```powershell
 winget install -e --id DBeaver.DBeaver.Community
 ```
 - [abrir link](https://dbeaver.io/download/)
 
 **Github Desktop** 
-```bash
+```powershell
 winget install -e --id GitHub.GitHubDesktop
 ```
 ou [abrir link](https://desktop.github.com/download/)
 
 **Android Studio** 
-```bash
+```powershell
 winget install -e --id Google.AndroidStudio
 ```
 - [abrir link](https://developer.android.com/studio)
@@ -155,13 +163,13 @@ winget install -e --id Google.AndroidStudio
 - [usar online](https://portugol.dev/)
 
 **DevC++**: 
-```bash
+```powershell
 winget install -e --id Orwell.Dev-C++
 ```
 ou [abrir link](https://www.dev-cpp.com/)
 
 **Code Block**: 
-```bash
+```powershell
 winget install -e --id CodeBlocks.CodeBlocks.MinGW
 ```
 ou [abrir link](https://www.codeblocks.org/downloads/binaries/#imagesoswindows48pnglogo-microsoft-windows)
@@ -175,30 +183,30 @@ ou [abrir link](https://www.codeblocks.org/downloads/binaries/#imagesoswindows48
 
 **AnyDesk**: [abrir link](https://anydesk.com/pt/downloads/windows)
 ou
-```bash
+```powershell
 winget install -e --id AnyDesk.AnyDesk
 ```
 
 **Filelight**: 
-```bash
+```powershell
 winget install -e --id KDE.Filelight
 ```
 ou [abrir link](https://apps.kde.org/filelight/)
 
 **Localsend**
-```bash
+```powershell
 winget install localsend
 ```
 ou [abrir link](https://localsend.org/pt-BR/download?os=windows)
 
 **Ente Auth** 
-```bash
+```powershell
 winget install -e --id ente-io.auth-desktop
 ```
 ou [abrir link](https://ente.com/download)
 
 **Wo Mic**
-```bash
+```powershell
 winget install -e --id Wolicheng.WOMic
 ```
 ou [abrir link](https://wolicheng.com/womic/download.html)
@@ -207,7 +215,7 @@ ou [abrir link](https://wolicheng.com/womic/download.html)
 - [abrir link](https://www.wisecleaner.com/wise-auto-shutdown.html)
 
 **PowerToys** 
-```bash
+```powershell
 winget install --id Microsoft.PowerToys --source winget
 ```
 ou [abrir link](https://github.com/microsoft/PowerToys/releases)
@@ -220,7 +228,7 @@ ou [abrir link](https://github.com/microsoft/PowerToys/releases)
 - [abrir link](https://www.3u.com/)
 
 **Virtual Box** 
-```bash
+```powershell
 winget install -e --id Oracle.VirtualBox
 ```
 - [abrir link](https://www.virtualbox.org/wiki/Downloads)
@@ -235,7 +243,7 @@ winget install -e --id Oracle.VirtualBox
 - [abrir link](https://www.mediafire.com/folder/h9nhex5xb48x9/Microsoft+Office)
 
 **OnlyOffice** 
-```bash
+```powershell
 winget install -e --id ONLYOFFICE.DesktopEditors
 ```
 ou [abrir link](https://www.onlyoffice.com/download-desktop)
@@ -248,7 +256,7 @@ ou [abrir link](https://www.onlyoffice.com/download-desktop)
 - [abrir link](https://saerasoft.com/caesium/#downloads)
 
 **HandBrake** 
-```bash
+```powershell
 winget install -e --id HandBrake.HandBrake
 ```
 ou [abrir link](https://handbrake.fr/downloads.php)
@@ -268,13 +276,13 @@ ou [abrir link](https://handbrake.fr/downloads.php)
 - [abrir link (Mediafire)](https://www.mediafire.com/file/mhro6h5wjbw9bbc/EaseUS_Data_Recovery_Wizard.rar/file)
 
 **Balena Etcher** 
-```bash
+```powershell
 winget install -e --id Balena.Etcher
 ```
 ou [abrir link](https://etcher.balena.io/#download-etcher)
 
 **Rufus** 
-```bash
+```powershell
 winget install -e --id Rufus.Rufus
 ```
 ou [abrir link](https://rufus.ie/pt/)
