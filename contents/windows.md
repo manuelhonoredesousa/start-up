@@ -240,7 +240,8 @@ winget install -e --id Oracle.VirtualBox
 ## Office 
 
 **Microsoft Office** 
-- [abrir link](https://www.mediafire.com/folder/h9nhex5xb48x9/Microsoft+Office)
+- [Mediafire - 2013_x64 & 2021_x64](https://www.mediafire.com/folder/h9nhex5xb48x9/Microsoft+Office)
+- [Google Drive - 2021_x64](https://drive.google.com/file/d/1TYbeZUG-TTD4us3XYB98gegD6rH4eBGW/view?usp=sharing)
 
 **OnlyOffice** 
 ```powershell
