@@ -187,7 +187,7 @@ ou [abrir link](https://localsend.org/pt-BR/download?os=linux)
 ```bash
 flatpak install flathub io.ente.auth
 ```
-ou [abrir link](https://ente.com/download)
+ou [abrir link](https://ente.com/auth/)
 
 **3utools** 
 - [abrir link](https://www.3u.com/)

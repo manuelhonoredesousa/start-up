@@ -203,7 +203,7 @@ ou [abrir link](https://localsend.org/pt-BR/download?os=windows)
 ```powershell
 winget install -e --id ente-io.auth-desktop
 ```
-ou [abrir link](https://ente.com/download)
+ou [abrir link](https://ente.com/auth/)
 
 **Wo Mic**
 ```powershell
