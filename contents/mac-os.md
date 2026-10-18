@@ -212,17 +212,17 @@ brew install --cask dockdoor
 ---
 ## Office
 
-**Microsoft 365**
-- [abrir link](https://www.microsoft.com/microsoft-365/download-office)
+**Microsoft**
+- [abrir link](https://www.mediafire.com/folder/foezxpss9hr23/Office)
+- Documentação: [Opção 1](https://alsyundawy.github.io/Microsoft-Office-For-MacOS/) ou [Opção 2](https://github.com/alsyundawy/Microsoft-Office-For-MacOS)
 - [histórico de atualizações do Office para Mac](https://learn.microsoft.com/en-us/officeupdates/update-history-office-for-mac)
-- [compatibilidade com macOS Big Sur 11](https://learn.microsoft.com/en-us/answers/questions/5294229/get-microsoft-office-to-work-on-mac-big-sur-11)
-
-**Microsoft Word**
-- Versão de referência: `Microsoft_Word_16.77.23091003_Updater`
-- [abrir link](https://learn.microsoft.com/en-us/officeupdates/update-history-office-for-mac)
 
 **OnlyOffice**
 - [abrir link](https://www.onlyoffice.com/download-desktop)
+
+**ArtCraft**
+- [abrir link](https://getartcraft.com/apps)
+- [abrir Github](https://github.com/storytold)
 
 ---
 ## Tech Tool
@@ -232,7 +232,3 @@ brew install --cask dockdoor
 
 **Balena Etcher**
 - [abrir link](https://etcher.balena.io/#download-etcher)
-
-**Caesium Image Compressor 2.7.1**
-- Versão de referência: `caesium-image-compressor-2.7.1-macos`
-- [abrir link](https://saerasoft.com/caesium/#downloads)

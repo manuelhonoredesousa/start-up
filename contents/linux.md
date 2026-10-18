@@ -8,7 +8,6 @@ sudo apt update && sudo apt upgrade -y
 sudo apt install build-essential curl wget git unzip -y
 ```
 
-
 **Instalar Flatpak** 
 - [abrir link](https://flathub.org/en/setup)
 
@@ -209,6 +208,9 @@ ou [abrir link](https://www.poweriso.com/download-poweriso-for-linux.htm)
 flatpak install flathub org.onlyoffice.desktopeditors
 ```
 ou [abrir link](https://www.onlyoffice.com/download-desktop)
+
+**ArtCraft**
+- [abrir Github](https://github.com/storytold)
 
 ---
 
