@@ -266,6 +266,9 @@ ou [abrir link](https://handbrake.fr/downloads.php)
 
 - [abrir link](https://www.mediafire.com/file/gosvsvdni9hthcf/Photoshop_portable_CS6_Installer.rar/file)
 
+**Affinity**
+- [abrir link](https://www.affinity.studio/pt_br/download)
+
 **Gimp** 
 - [abrir link](https://www.gimp.org/downloads/)
 
