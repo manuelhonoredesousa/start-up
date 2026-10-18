@@ -226,7 +226,7 @@ brew install --cask dockdoor
 
 **Microsoft**
 - [abrir link](https://www.mediafire.com/folder/foezxpss9hr23/Office)
-- Documentação: [Opção 1](https://alsyundawy.github.io/Microsoft-Office-For-MacOS/) ou [Opção 2](https://github.com/alsyundawy/Microsoft-Office-For-MacOS)
+- Documentação: [Opção 1](https://github.com/manuelhonoredesousa/Microsoft-Office-For-MacOS) ou [Opção 2](https://github.com/alsyundawy/Microsoft-Office-For-MacOS)
 - [histórico de atualizações do Office para Mac](https://learn.microsoft.com/en-us/officeupdates/update-history-office-for-mac)
 
 **OnlyOffice**
