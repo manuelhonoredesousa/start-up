@@ -58,6 +58,10 @@ ou [abrir link](https://www.firefox.com/pt-BR/)
 
 **AB Download Manager** 
 - [abrir link](https://abdownloadmanager.com/#download)
+ou
+```bash
+winget install amir1376.ABDownloadManager
+```
 
 ---
 ## Players
@@ -253,6 +257,9 @@ ou [abrir link](https://www.onlyoffice.com/download-desktop)
 - [abrir link](https://getartcraft.com/apps)
 - [abrir Github](https://github.com/storytold)
 
+**JOPDF**
+- [abrir link](https://www.jopdf.com/)
+- 
 ---
 
 ## Editor de Média
@@ -275,6 +282,9 @@ ou [abrir link](https://handbrake.fr/downloads.php)
 
 **Gimp** 
 - [abrir link](https://www.gimp.org/downloads/)
+
+**Cutwire Studios** 
+- [abrir link](https://cutwire.org/drift/)
 
 ---
 ## Tech Tool

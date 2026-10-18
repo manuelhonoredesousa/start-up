@@ -45,6 +45,10 @@ flatpak install flathub org.mozilla.firefox
 
 **AB Download Manager** 
 - [abrir link](https://abdownloadmanager.com/#download)
+ou
+```bash
+bash <(curl -fsSL https://raw.githubusercontent.com/amir1376/ab-download-manager/master/scripts/install.sh)
+```
 
 ---
 ## Players
@@ -212,6 +216,8 @@ ou [abrir link](https://www.onlyoffice.com/download-desktop)
 **ArtCraft**
 - [abrir Github](https://github.com/storytold)
 
+**JOPDF**
+- [abrir link](https://www.jopdf.com/)
 ---
 
 ## Editor de Média
@@ -228,6 +234,9 @@ flatpak install flathub org.gimp.GIMP
 ```
 - [abrir link](https://www.gimp.org/downloads/)
 
+**Cutwire Studios** 
+- [abrir link](https://cutwire.org/drift/)
+- 
 ---
 
 ## Tech Tool
@@ -242,3 +251,6 @@ flatpak install flathub com.system76.Popsicle
 
 **Kudu** 
 - [abrir link](https://usekudu.com/download)
+
+**Kisel** (proton) 
+- [abrir link](https://github.com/seinedkoda/kisel/releases)

@@ -217,6 +217,9 @@ brew install --cask dockdoor
 
 **Gimp** 
 - [abrir link](https://www.gimp.org/downloads/)
+
+**Cutwire Studios** 
+- [abrir link](https://cutwire.org/drift/)
   
 ---
 ## Office
@@ -232,6 +235,9 @@ brew install --cask dockdoor
 **ArtCraft**
 - [abrir link](https://getartcraft.com/apps)
 - [abrir Github](https://github.com/storytold)
+
+**JOPDF**
+- [abrir link](https://www.jopdf.com/)
 
 ---
 ## Tech Tool
