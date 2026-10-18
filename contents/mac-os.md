@@ -42,6 +42,7 @@ OBS: Homebrew on macOS is only supported on Apple Silicon processors!
 
 **AB Download Manager** 
 - [abrir link](https://abdownloadmanager.com/#download)
+- Para BigSur+: [abrir link](https://www.mediafire.com/file/mtx1ow7v34dg89y/ABDownloadManager_1.10.4_mac_x64.dmg/file)
 
 ou
 ```bash
@@ -51,11 +52,16 @@ brew tap amir1376/tap && brew install --cask ab-download-manager
 **Parabolic**
 - [abrir link](https://github.com/nickvisionapps/parabolic)
 
+**Google Drive**
+- [abrir link](https://ipv4.google.com/intl/pt-BR/drive/download/)
+- Para Ventura+: [abrir link](https://www.mediafire.com/file/c0nmf5hgx9lmrf8/GoogleDrive.dmg/file)
+
 ---
 ## Players
 
 **VLC**
 - [abrir link](https://www.videolan.org/vlc/download-macosx.html)
+- Para BigSur+: [abrir link](https://www.mediafire.com/file/z5imieb6e350k5d/vlc-3.0.24-intel64.dmg/file)
 
 **IINA**
 - [abrir link](https://iina.io/)
@@ -77,6 +83,7 @@ _Att: instala as ferramentas essenciais de programação do Mac, incluindo Git, 
 
 **Node.js**
 - [abrir link](https://nodejs.org/en/download)
+- [v24.21](https://www.mediafire.com/file/lc6a84sqpi3zbty/node-v24.21.0.pkg/file)
 
 ```bash
 npm i pnpm -g
@@ -136,6 +143,7 @@ npm i pnpm -g
 
 **LocalSend**
 - [abrir link](https://localsend.org/pt-BR/download?os=macos)
+- Para BigSur+: [abrir link](https://www.mediafire.com/file/cdwnmujcw55909t/LocalSend-1.18.2.dmg/file)
     
 ou
 ```bash
@@ -144,6 +152,7 @@ brew install --cask localsend
 
 **Ente Auth**
 - [abrir link](https://ente.com/auth/)
+- Para BigSur+: [abrir link](https://www.mediafire.com/file/ki5jufkpilndqit/ente-auth-v4.4.25.dmg/file)
 
 **3uTools**
 - [abrir link](https://www.3u.com/)
@@ -232,3 +241,9 @@ brew install --cask dockdoor
 
 **Balena Etcher**
 - [abrir link](https://etcher.balena.io/#download-etcher)
+
+**OpenCore Configuration**
+- [abrir link](https://www.mediafire.com/file/0z9j89brcmg8b0x/OCC.zip/file)
+
+**Outras Dados**
+- [abrir link](https://www.mediafire.com/folder/9q9d1ttzzzd3x/Mac)
