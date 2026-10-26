@@ -3,8 +3,8 @@
 ## Úteis:
 
 PARA BAIXAR EM OUTRAS FONTES: 
-- https://en.uptodown.com/mac
-- https://filecr.com/mac/
+- [Uptodown](https://en.uptodown.com/mac)
+- [Filecr](https://filecr.com/mac/)
 
 **Homebrew**
 ```bash
