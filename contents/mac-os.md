@@ -13,6 +13,10 @@ PARA BAIXAR EM OUTRAS FONTES:
 OBS: Homebrew on macOS is only supported on Apple Silicon processors!
 - [abrir link](https://brew.sh/)
 
+**OpenMTP**
+- Página Oficial: [abrir link](https://openmtp.ganeshrvel.com/)
+- Mediafire 10.14+: [abrir link](https://www.mediafire.com/file/fvcesy7or4tkm1l/openmtp-3.3.0-mac-x64_10.14%252B.dmg/file)
+
 **iTerm2**
 - [abrir link](https://iterm2.com/downloads.html)
 
