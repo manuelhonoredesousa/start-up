@@ -252,6 +252,10 @@ brew install --cask dockdoor
 **Balena Etcher**
 - [abrir link](https://etcher.balena.io/#download-etcher)
 
+**WinDiskWriter**
+- Official: [abrir link](https://github.com/TechUnRestricted/WinDiskWriter)
+- Mediafire(1.3): [abrir link](https://www.mediafire.com/file/ua7co37a43do4f6/WinDiskWriter.1.3.zip/file)
+
 **OpenCore Configuration**
 - [abrir link](https://www.mediafire.com/file/0z9j89brcmg8b0x/OCC.zip/file)
 
