@@ -23,7 +23,7 @@ OBS: Homebrew on macOS is only supported on Apple Silicon processors!
 
 **NTFSTool Pro**
 - Página Oficial: [abrir link](https://ntfstool.com/)
-- Mediafire 10.13 ~ 15: [abrir link](https://www.mediafire.com/file/8ytgyl5bh1yjpx3/NTFSToolPro_5.0.0.19.dmg/file)
+- Mediafire: [abrir link](https://www.mediafire.com/file/8ytgyl5bh1yjpx3/NTFSToolPro_5.0.0.19.dmg/file)
 
 **iTerm2**
 - [abrir link](https://iterm2.com/downloads.html)
