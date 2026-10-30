@@ -17,6 +17,14 @@ OBS: Homebrew on macOS is only supported on Apple Silicon processors!
 - Página Oficial: [abrir link](https://openmtp.ganeshrvel.com/)
 - Mediafire 10.14+: [abrir link](https://www.mediafire.com/file/fvcesy7or4tkm1l/openmtp-3.3.0-mac-x64_10.14%252B.dmg/file)
 
+**Hasleo NTFS for Mac**
+- Página Oficial: [abrir link](https://www.easyuefi.com/ntfs-for-mac/ntfs-for-mac.html)
+- Mediafire 10.13 ~ 15: [abrir link](https://www.mediafire.com/file/g4bi8e3no4hoc1p/HasleoNTFS4Mac.pkg/file)
+
+**NTFSTool Pro**
+- Página Oficial: [abrir link](https://ntfstool.com/)
+- Mediafire 10.13 ~ 15: [abrir link](https://www.mediafire.com/file/8ytgyl5bh1yjpx3/NTFSToolPro_5.0.0.19.dmg/file)
+
 **iTerm2**
 - [abrir link](https://iterm2.com/downloads.html)
 
