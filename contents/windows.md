@@ -264,6 +264,9 @@ ou [abrir link](https://www.onlyoffice.com/download-desktop)
 
 ## Editor de Média
 
+**Picasa 3.9.141.259**
+- [abrir link](https://www.mediafire.com/file/yrprhknoujg4aqd/picasa-3-9-141-259.rar/file)
+
 **Caesium Image Compressor**
 - [abrir link](https://saerasoft.com/caesium/#downloads)
 
