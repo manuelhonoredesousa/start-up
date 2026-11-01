@@ -269,3 +269,22 @@ brew install --cask dockdoor
 
 **Outras Dados**
 - [abrir link](https://www.mediafire.com/folder/9q9d1ttzzzd3x/Mac)
+
+
+# TIPS
+---
+
+## Usar microfone do iphone no macOS
+
+### Método 1: Ligação via Cabo USB (Sem Latência e Sem Falhas de Rede)
+
+Este é o método mais recomendado para Hackintosh, pois ignora completamente problemas de Wi-Fi/Bluetooth.
+1. No iPhone: Instale a aplicação gratuita [Microphone Live](https://apps.apple.com/us/app/microphone-live/id1070812067) (desenvolvida por vonBruno).
+2. Ligue o iPhone ao Mac através do cabo USB.
+3. No Hackintosh:
+	• Abra a app nativa Configuração de Áudio e MIDI (Audio MIDI Setup) — use a pesquisa do Spotlight (Comando + Espaço) para encontrá-la.
+	• Na barra lateral esquerda, o seu iPhone aparecerá listado. Clique no botão Ativar (Enable) logo abaixo do nome dele.
+4. De volta ao iPhone:
+	• Abra o Microphone Live.
+	• Toque no botão central de Ligar (o ícone do microfone ficará ativo). O áudio do microfone do telemóvel será agora enviado diretamente para o canal digital do cabo USB.
+5. Definição de Sistema: Vá a Ajustes do Sistema > Som > Entrada e selecione o seu iPhone como a fonte de entrada de áudio.

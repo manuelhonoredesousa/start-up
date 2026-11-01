@@ -314,5 +314,3 @@ ou [abrir link](https://rufus.ie/pt/)
 **dControl (Defender Disable/Enable)** 
 - [abrir link (OneDrive)](https://1drv.ms/u/c/61b6cf8b47bdc779/IQAkxWwy9-oGQIYeZOaZ4lS5ASWDKxW0t8m6pQXxNcwZxeQ?e=yZ67yV)
 - [abrir link (Mediafire)](https://www.mediafire.com/folder/5aio10qvah3ms/(Defender)+-+dControl+-+sordum.org)
-
- 
