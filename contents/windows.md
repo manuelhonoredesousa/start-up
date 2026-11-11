@@ -10,6 +10,12 @@ Add-AppxPackage -RegisterByFamilyName -MainPackage Microsoft.DesktopAppInstaller
 ```
 ou [abrir link](https://learn.microsoft.com/pt-br/windows/package-manager/winget/)
 
+**Permitir comandos remotos no terminal** 
+
+```powershell
+Set-ExecutionPolicy -ExecutionPolicy RemoteSigned -Scope CurrentUser
+```
+
 **WinRar** 
 ```powershell
 winget install -e --id RARLab.WinRAR
