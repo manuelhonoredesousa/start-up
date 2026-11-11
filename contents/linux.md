@@ -50,6 +50,10 @@ ou
 bash <(curl -fsSL https://raw.githubusercontent.com/amir1376/ab-download-manager/master/scripts/install.sh)
 ```
 
+**Mister Download Manager** 
+- [abrir link](https://misterdownloadmanager.com)
+- [abrir github](https://github.com/anefzaoui/misterdownloadmanager)
+
 ---
 ## Players
 
@@ -167,6 +171,26 @@ flatpak install flathub me.iepure.devtoolbox
 
 ---
 ### Outros
+
+**Synaptic**
+```bash
+sudo apt install synaptic
+```
+
+**Ffmpeg**
+```bash
+#Debian/Ubunto/Mint
+sudo apt install ffmpeg -y
+#Fedora / RHEL / CentOS:
+bash sudo dnf install ffmpeg -y   
+#Arch Linux / Manjaro:
+bash sudo pacman -S ffmpeg   
+#Via Snap (Universal):
+bash sudo snap install ffmpeg 
+```
+
+**ExpanDrive** 
+- [abrir link](https://www.expandrive.com/download)
 
 **AnyDesk** [abrir link](https://anydesk.com/pt/downloads/linux)
 ou

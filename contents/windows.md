@@ -63,6 +63,10 @@ ou
 winget install amir1376.ABDownloadManager
 ```
 
+**Mister Download Manager** 
+- [abrir link](https://misterdownloadmanager.com)
+- [abrir github](https://github.com/anefzaoui/misterdownloadmanager)
+
 ---
 ## Players
 
@@ -190,6 +194,8 @@ ou
 ```powershell
 winget install -e --id AnyDesk.AnyDesk
 ```
+**ExpanDrive** 
+- [abrir link](https://www.expandrive.com/download)
 
 **Filelight**: 
 ```powershell

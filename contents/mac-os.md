@@ -61,6 +61,11 @@ ou
 brew tap amir1376/tap && brew install --cask ab-download-manager
 ````
 
+
+**Mister Download Manager** 
+- [abrir link](https://misterdownloadmanager.com)
+- [abrir github](https://github.com/anefzaoui/misterdownloadmanager)
+  
 **Parabolic**
 - [abrir link](https://github.com/nickvisionapps/parabolic)
 
@@ -140,6 +145,9 @@ npm i pnpm -g
 
 ---
 ## Outros
+
+**ExpanDrive** 
+- [abrir link](https://www.expandrive.com/download)
 
 **VMware Fusion Workstation**
 - [abrir link](https://www.vmware.com/products/desktop-hypervisor/workstation-and-fusion)
